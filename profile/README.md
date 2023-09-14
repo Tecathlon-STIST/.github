@@ -1,3 +1,7 @@
+An AI-powered plug & play solution to enable emergency brake warnings, lane departure warnings & more safety features in your existing car, all while enjoying the comfort features of your connected vehicle!
+
+>▶️ [Watch the video](https://youtu.be/9RzLjHgdQK8)
+
 ## Problem at hand
 Within the automotive landscape of developing countries like India, a critical safety concern persists. While high-end vehicles are equipped with advanced automatic emergency braking technology, these solutions are financially out of reach for the majority of the population. Moreover, a substantial number of vehicles currently in use, regardless of their price range, lack this essential safety feature. In the midst of the tech industry's focus on autonomous solutions, existing vehicles often remain without adequate safety enhancements.
 
